@@ -1,0 +1,9 @@
+1) read file from disk or internet (read both CSV file and EXCEL file)
+2) create Dataframe from list.
+3) drop null values
+4) interpolation of nulll values
+5) selecting specific rows and columns
+6) inserting and deleting data rows and columns
+7) joining two tables
+8) appending multiple rows of data
+9) set format of data
