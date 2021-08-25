@@ -1,7 +1,8 @@
 library dart_pandas;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+/// Dart Package for DataFrame manipulation just like Pandas in python
+/// This library is developed, documented and developed by
+/// [Utkarsh Mishra](https://github.com/utkarsh0702)
+
+export 'src/dart_pandas.dart';
+export 'src/extension/extension.dart';
