@@ -27,6 +27,7 @@ class DartPandas {
         columnData[i][j] = data[j][i];
       }
     }
+    print(columnData);
     // var row = contents.length, col = columns_names.length;
 
     return columnData;
